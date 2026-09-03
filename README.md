@@ -128,3 +128,9 @@ scaleFactor = 0.0000252;
 **Aanshi Gandhi**  
 B.Tech – Electronics & Instrumentation Engineering  
 Nirma University
+
+## Hardware Setup
+
+The complete experimental setup consists of the blood pressure cuff, HX710B pressure sensor, Arduino UNO, pressure pump, and the Arduino Serial Monitor used to observe the measured pressure.
+
+![Hardware Setup](hardware_setup.jpg)
