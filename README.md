@@ -121,7 +121,7 @@ The current implementation uses an experimentally determined scale factor:
 
 ```cpp
 scaleFactor = 0.0000252;
-
+```markdown
 ## Author
 
 **Aanshi Gandhi**  
